@@ -37,7 +37,7 @@ The stories, essays I wrote can be found at  <a href='https://scholar.google.com
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/DC-Face.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Press of Zhejiang University</div><img src='images/DC-Face.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Digital Currency:: The Rise of Machine Power and the Future of Digital Order]
@@ -48,7 +48,7 @@ Yun Wu,  Wei Zhu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/Blockchain-Face.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">China Finance Press</div><img src='images/Blockchain-Face.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Brief History of Blockchain]
