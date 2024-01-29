@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhu Wei is a student in the engineering doctor program at the School of Information, Renmin University of China. His major is blockchain, with a focus on studying its application in industries such as healthcare and aged care. With over 25 years of experience in software and internet development, he has held various positions including engineer, project manager, and CTO in different companies like Yonyou and GreatWall Software. This has given him deep insights into software product development, team management, sales, and marketing. Since 2014, he has been leading his team in researching and developing blockchain and artificial intelligence technologies. 
+I am currently a student in the engineering doctor program at the School of Information, Renmin University of China. My major is blockchain, with a focus on studying its application in industries such as healthcare and aged care. I now work as head of research of Aldelo L.P., responding for the operation of Aldelo Laboratory and the operation of China branch. With over 25 years of experience in software and internet development, I have held various positions including engineer, project manager, and CTO in different companies like Yonyou and GreatWall Software. This has given me deep insights into software product development, team management, sales, and marketing. Since 2014, I have been leading my team in researching and developing blockchain and artificial intelligence technologies.
 
-He is the author of two books on blockchain, namely "The Brief History of Blockchain" and "Digital Currencies: The Rise of Machine Power and the Future of Digital Order." Additionally, he has an English handbook on digital currencies currently in the publishing process with Springer Publishing House. Furthermore, he has written numerous articles that have been published in various journals, and he holds several patents in the areas of blockchain and artificial intelligence.In his spare time, he enjoys writing and spent his time in various genres such as novels, short stories, and essays.
+I am the author of two books on blockchain, namely "The Brief History of Blockchain" and "Digital Currencies: The Rise of Machine Power and the Future of Digital Order." Additionally, I have an English handbook on digital currencies currently in the publishing process with Springer Publishing House. Furthermore, I have written numerous articles that have been published in various journals, and I hold several patents in the areas of blockchain and artificial intelligence. In my spare time, I enjoy writing and spent my time in various genres such as novels, short stories, and essays.
 
-He also holds various positions within the community, including serving as technical consultant for FATF (Financial Action Task Force)，Central Bank of China, EU(Europen Union), as well as being a lecturer at the Chinese Bank Union, among others.
-He graduated from Science and Technology University of BeiJing in 1998.  
+I also hold various positions within the community, including serving as technical consultant for FATF (Financial Action Task Force)，Central Bank of China, EU(Europen Union), as well as being a lecturer at the Chinese Bank Union, among others.
+
+I graduated from Science and Technology University of BeiJing in 1998.  
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes AI application and Blockchain.
+
+The stories, essays I wrote can be found at  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>My blog</a>.
 
 
 # 🔥 News
