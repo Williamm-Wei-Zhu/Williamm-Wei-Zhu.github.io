@@ -59,11 +59,44 @@ Wei Zhu, Yun Wu, Bo Yang
 </div>
 </div>
 
- **CVPR 2020**
+- “Leveraging Blockchain Technology for Trusted Steel Supply Chain Management”，**Zhu Wei**, Xuan Wang, Bo Yang, Yue Hu, Hsu, Li(Under Review)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- "How Can Digital RMB Break the Isolation of Anti-Money Laundering Monitoring and Analysis? - Joint Risk Control based on Privacy Computing", **Zhu Wei**, Credit Investigation, 2022-03.
+
+- "Virtual Currency as a Virtual Currency in Financial Regulation: An Interdisciplinary Study of Law, Finance, and Technology", Wu Yun, **Zhu Wei**,Journal of Shanghai University of Political Science and Law, 2021-07.
+
+- "Leveraging Artificial Intelligence in Medicine Compliance Check", Zhang Wenping, **Zhu Wei**, HCII2021.
+
+
+- "International Regulation of Virtual Currencies: Starting from Anti-Money Laundering and Moving Towards Emergent Order", Wu Yun, **Zhu Wei**, Financial and Economic Law Journal, 2021, Issue 2.
+
+- "Virtual Currency: A Failed Private Currency and Social Experiment", Wu Yun, **Zhu Wei**,  Financial Regulation Research, 2020, Issue 6.
+
+- "Research Report on the Current Situation and Trends of Distributed Trustworthy Internet in Beijing", **Zhu Wei** 2020.
+
+- "Fintech in China Report", **Zhu Wei**, EU Project, 2024.
+
+
+ **Patent**
+# 🎖 US Invention Patent
+- Harry Tu, *Zhu Wei*, SYSTEMS AND METHODS FOR HANDWRITING RECOGNITION USING OPTICAL CHARACTER RECOGNITION (18/243,512) (patent pending)
+
+- Harry Tu, *Zhu Wei*, SYSTEM AND METHODS FOR MENU CONTENT RECOGNITION USING AI TECHNOLOGIES (18/397,841)(patent pending)
+
+- Harry Tu, *Zhu Wei*, SYSTEMS AND METHODS FOR AUTONOMOUS CONVERSATIONAL ORDERING AND BOOKING USING AI TECHNOLOGIES（18/400,619）(patent pending)
+
+# 🎖 China Invention Patent
+- *Zhu Wei* Trusted Application Network Data Tracing and Audit Method for Complex Software Networks.(ZL 2020 1 0113192.2)
+- *Zhu Wei* A method and system for disease standardization mapping classification using Bert.(202010627402.X) (Pending)
+- *Zhu Wei* A blockchain-based anti-counterfeiting and traceability system and method for steel.(202110523809.2)(Pending)
+- *Zhu Wei* An intelligent information system and construction method based on large language models.(202311023967.7)(Pending)
+- *Zhu Wei* A content distribution and interaction method and system based on multimodal large language models.(202310961722.2)(Pending)
+- *Zhu Wei* A method and system for blacklist cross-verification and sharing among multiple parties.(202010737235.4)(Pending)
+- *Zhu Wei* A method and system for standardized mapping of drug names.(202011050937.1)(Pending)
+
+
+
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
