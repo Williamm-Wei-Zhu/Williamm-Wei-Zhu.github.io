@@ -28,12 +28,12 @@ I graduated from Science and Technology University of BeiJing in 1998.
 
 My research interest includes AI application and Blockchain.
 
-The stories, essays I wrote can be found at  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>My blog</a>.
+The stories, essays I wrote can be found at  <a href='https://www.jianshu.com/u/7bd87904807a'>My blog</a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2022.02*: &nbsp;🎉🎉 Digital Currency:: The Rise of Machine Power and the Future of Digital Order is published.
+- *2020.02*: &nbsp;🎉🎉 The Brief History of Blockchain is published.
 
 # 📝 Publications
 
@@ -99,12 +99,17 @@ Wei Zhu, Yun Wu, Bo Yang
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.09 -  (now)*, Engineering Doctor, Digital Information, School of Information, Renmin University.
+- *1994.09 - 1998.06*, Hydraulic, School of mechanics， Science and Technology University of BeiJing
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Teaching
+- The development history and principles of blockchain
+- Exploration of practical applications of blockchain
+- The history and principles of digital currency
+- The development history and technical architecture of central bank digital currency
+- The basic principles of AI
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work experience
+- *2023.07 - Now*, VP of Research, Aldelo LP(aldelo.com).
+- *2003.07 - 2023.07*, Head of Research, Rayootech(rayootech.com).
+- *1998.09 - 2003.07*, Engineer/PM, Greatwall Software China 
