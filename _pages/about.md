@@ -106,3 +106,19 @@ The stories, essays I wrote can be found at  <a href='https://www.jianshu.com/u/
 - *Zhu Wei*, An intelligent information system and construction method based on large language models. (202311023967.7) (Pending)
 - *Zhu Wei*, A content distribution and interaction method and system based on multimodal large language models. (202310961722.2) (Pending)
 - *Zhu Wei*, An artificial intelligence recommendation system
+
+# 📖 Education
+- *2023.09 - (now)*, Engineering Doctor, Digital Information, School of Information, Renmin University.
+- *1994.09 - 1998.06*, Hydraulic, School of Mechanics, Science and Technology University of Beijing
+
+# 💬 Teaching
+- The development history and principles of blockchain
+- Exploration of practical applications of blockchain
+- The history and principles of digital currency
+- The development history and technical architecture of central bank digital currency
+- The basic principles of AI
+
+# 💻 Work Experience
+- *2023.07 - Now*, VP of Research, Aldelo LP (aldelo.com).
+- *2003.07 - 2023.07*, Head of Research, Rayootech (rayootech.com).
+- *1998.09 - 2003.07*, Engineer/PM, Greatwall Software China
