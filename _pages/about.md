@@ -87,12 +87,13 @@ Wei Zhu, Yun Wu, Bo Yang
 
 # 🎖 China Invention Patent
 - *Zhu Wei* Trusted Application Network Data Tracing and Audit Method for Complex Software Networks.(ZL 2020 1 0113192.2)
-- *Zhu Wei* A method and system for disease standardization mapping classification using Bert.(202010627402.X) (Pending)
-- *Zhu Wei* A blockchain-based anti-counterfeiting and traceability system and method for steel.(202110523809.2)(Pending)
+- *Zhu Wei* A method and system for disease standardization mapping classification using Bert.(ZL 2020 1 0627402.X)
+- *Zhu Wei* A blockchain-based anti-counterfeiting and traceability system and method for steel.(ZL 2021 1 053809.2)
+- *Zhu Wei* A dynamic anti-counterfeiting system and method based on the circulation business of the steel industry chain.(ZL 2024 1 0487679.5)
 - *Zhu Wei* An intelligent information system and construction method based on large language models.(202311023967.7)(Pending)
 - *Zhu Wei* A content distribution and interaction method and system based on multimodal large language models.(202310961722.2)(Pending)
-- *Zhu Wei* A method and system for blacklist cross-verification and sharing among multiple parties.(202010737235.4)(Pending)
-- *Zhu Wei* A method and system for standardized mapping of drug names.(202011050937.1)(Pending)
+- *Zhu Wei* An artificial intelligence recommendation system and method. (ZL 2020 1 1350668.0)
+- *Zhu Wei* A blockchain-based socialized human resource management system and method. (ZL 2020 1 0898297.3)
 
 
 
@@ -112,4 +113,4 @@ Wei Zhu, Yun Wu, Bo Yang
 # 💻 Work experience
 - *2023.07 - Now*, VP of Research, Aldelo LP(aldelo.com).
 - *2003.07 - 2023.07*, Head of Research, Rayootech(rayootech.com).
-- *1998.09 - 2003.07*, Engineer/PM, Greatwall Software China 
+- *1998.09 - 2003.07*, Engineer/PM, Greatwall Software China
