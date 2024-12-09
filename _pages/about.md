@@ -44,9 +44,9 @@ The stories, essays I wrote can be found at  <a href='https://www.jianshu.com/u/
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    <h3 style="font-size: 2em !important; font-weight: bold !important; line-height: 1.5;">
+
       [The Fundamentals of Digital Currency: Demystifying the Social Experiment of New Money]
-    </h3>
+
     Yun Wu, Wei Zhu
   </div>
 </div>
@@ -59,9 +59,9 @@ The stories, essays I wrote can be found at  <a href='https://www.jianshu.com/u/
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    <h3 style="font-size: 2em !important; font-weight: bold !important; line-height: 1.5;">
+
       [Digital Currency: The Rise of Machine Power and the Future of Digital Order]
-    </h3>
+    
     Yun Wu, Wei Zhu
   </div>
 </div>
@@ -74,10 +74,9 @@ The stories, essays I wrote can be found at  <a href='https://www.jianshu.com/u/
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-    <h3 style="font-size: 2em !important; font-weight: bold !important; line-height: 1.5;">
+
       [The Brief History of Blockchain]
-    </h3>
-    Wei Zhu, Yun Wu, Bo Yang
+      Wei Zhu, Yun Wu, Bo Yang
   </div>
 </div>
 
