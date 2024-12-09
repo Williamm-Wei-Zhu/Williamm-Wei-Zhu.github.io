@@ -36,7 +36,15 @@ The stories, essays I wrote can be found at  <a href='https://www.jianshu.com/u/
 - *2020.02*: &nbsp;🎉🎉 The Brief History of Blockchain is published.
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring Press</div><img src='images/english-book-cover.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[The Fundamentals of Digital Currency:: Demystifying the Social Experiment of New Money]
+
+Yun Wu,  Wei Zhu
+
+
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Press of Zhejiang University</div><img src='images/DC-Face.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
