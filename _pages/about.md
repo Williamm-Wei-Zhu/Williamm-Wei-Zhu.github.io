@@ -67,6 +67,7 @@ Wei Zhu, Yun Wu, Bo Yang
 </div>
 </div>
 
+# 🎖 Paper
 - “Leveraging Blockchain Technology for Trusted Steel Supply Chain Management”，**Zhu Wei**, Xuan Wang, Bo Yang, Yue Hu, Hsu, Li(Under Review)
 
 - "How Can Digital RMB Break the Isolation of Anti-Money Laundering Monitoring and Analysis? - Joint Risk Control based on Privacy Computing", **Zhu Wei**, Credit Investigation, 2022-03.
